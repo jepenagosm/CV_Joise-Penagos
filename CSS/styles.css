@@ -1,0 +1,47 @@
+.imagen-principal {
+  text-align: center;
+}
+
+.titulo_principal {
+  background-color: #C4C4C4;
+  color: #005677;
+  text-transform: uppercase;
+  letter-spacing: 12px;
+  text-align: center;
+  font-size: 12px 0;
+}
+
+.titulo_secundario {
+  background-color: #C4C4C4;
+  color: #005677;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  text-align: left;
+  padding-left: 20px;
+}
+
+span {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.fecha {
+  padding-left: 20px;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.interlineado{
+    line-height:  25px;;
+}
+
+.titulo_redes{
+  font-style: normal;
+  background-color: #005677;
+  text-align: center;
+  color: #fff;
+  padding: 5px;
+}
+.subtitulo_redes{
+  display: inline;
+}
